@@ -21,8 +21,8 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", None))
 
-# Get this value from @FallenxBot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", 5605826172))
+# Get this value from @KunoXrobot on Telegram by /id
+OWNER_ID = int(getenv("OWNER_ID", 6015276243))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -32,15 +32,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/aashuxxD/KunoMusic",
+    "https://github.com/Ayushjha9988/KunoMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Saykkunomusic")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/College_wali_masti")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/eagIemusic")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/aushworld")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
@@ -78,10 +78,10 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://mallucampaign.in/images/img_1694847236.jpg"
+    "START_IMG_URL", "https://graph.org/file/3f7bcb0793461a6b20955.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://mallucampaign.in/images/img_1692101295.jpg"
+    "PING_IMG_URL", "https://graph.org/file/e6477a03f099d0c0ed917.jpg"
 )
 PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
 STATS_IMG_URL = "https://mallucampaign.in/images/img_1694847936.jpg"
