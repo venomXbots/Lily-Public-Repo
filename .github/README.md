@@ -1,8 +1,8 @@
 <h2 align="center">
     ──「 𝐋𝐢𝐥𝐲 ✘ 𝐌𝐮𝐬𝐢𝐜 」──
 </h2>
-<p align="center">
-  <img src="https://telegra.ph/file/f745e8f50e7ead1eeed2e.jpg)">
+
+<p align="center"><img src="https://telegra.ph/file/f745e8f50e7ead1eeed2e.jpg)">
     
 </p>
 
