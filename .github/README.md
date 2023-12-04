@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/e6477a03f099d0c0ed917.jpg" alt="Lily Music Logo" width="640" height="360">
+  <img src="https://telegra.ph/file/078e6ac6c2be679979fde.jpg" alt="Lily Music Logo" width="640" height="460">
 </p>
 
    <p align="center">
