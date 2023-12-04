@@ -2,9 +2,8 @@
     ──「 𝐋𝐢𝐥𝐲 ✘ 𝐌𝐮𝐬𝐢𝐜 」──
 </h2>
 
-<p align="center"> 
-    <img src="https://telegra.ph/file/f745e8f50e7ead1eeed2e.jpg)">
-    
+<p align="center">
+  <img src="https://graph.org/file/e6477a03f099d0c0ed917.jpg" alt="Lily Music Logo" width="640" height="360">
 </p>
 
    <p align="center">
