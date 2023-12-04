@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 𝗘𝗔𝗚𝗟𝗘 ✘ 𝗠𝗨𝗦𝗜𝗖 」──
+    ──「 𝐋𝐢𝐥𝐲 ✘ 𝐌𝐮𝐬𝐢𝐜 」──
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/5d5a86203acef35890ff4.jpg">
+  <img src="https://telegra.ph/file/f745e8f50e7ead1eeed2e.jpg)">
     
 </p>
 
@@ -15,13 +15,13 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Ayushjha9988/KunoMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/venomXbots/Lilyrobot"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/Venomxboss/KunoMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/venomXbots/Lilyrobot)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -33,7 +33,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Venomxboss/AnonXMusic && cd AnonXMusic`
+`git clone https://github.com/venomXbots/Lilyrobot && cd Lilyrobot`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -54,11 +54,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/aushworld"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/The_Ghost_Iisland"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/eagIemusic"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Lily_x_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʜᴇʟᴩᴇʀ](https://telegram.me/badboy9616) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://telegram.me/Saykkunobot)_ </b>
