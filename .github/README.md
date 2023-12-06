@@ -60,6 +60,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://telegram.me/The_Ghost_Iisland"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
+<h2 align="center">
 ─「 sᴜᴩᴩᴏʀᴛ-ᴄʜᴀᴛ 」─
 
 <p align="center">
