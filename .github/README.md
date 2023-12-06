@@ -3,7 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/078e6ac6c2be679979fde.jpg" alt="Lily Music Logo" width="470" height="660">
+  <img src="https://graph.org/file/77785bfc6eceb77dd5edd.jpg" alt="Lily Music Logo" width="470" height="660">
 </p>
 
    <p align="center">
@@ -24,7 +24,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/venomXbots/Lilyrobot)
+- Get your [Necessary Variables](https://github.com/venomXbots/Lily-Public-Repo)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -36,7 +36,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/venomXbots/Lilyrobot && cd Lilyrobot`
+`git clone https://github.com/venomXbots/Lily-Public-Repo && cd Lily-Public-Repo`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
