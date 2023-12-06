@@ -72,6 +72,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ─「 ᴏᴡɴᴇʀ 」─
 
 <p align="center">
-<a href="https://telegram.me/Its_Your_Aryan"><img src="https://img.shields.io/badge/-Repo%20Owner-Cream.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Its_Your_Aryan"><img src="https://img.shields.io/badge/-Repo%20Owner-lightblue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 </h3>
