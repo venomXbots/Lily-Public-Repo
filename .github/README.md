@@ -53,17 +53,21 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 𝙨ᴜᴩᴩᴏʀᴛ-ɢʀᴏᴜᴘ 」─
 </h3>
 
 <p align="center">
 <a href="https://telegram.me/The_Ghost_Iisland"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
+─「 sᴜᴩᴩᴏʀᴛ-ᴄʜᴀᴛ 」─
+
 <p align="center">
 <a href="https://telegram.me/Lily_x_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
+─「 ᴏᴡɴᴇʀ 」─
+
 <p align="center">
-<a href="https://telegram.me/badboy9616"><img src="https://img.shields.io/badge/-Special%20Thanks-red.svg?style=for-the-badge&logo=Yukki"></a>
+<a href="https://telegram.me/badboy9616"><img src="https://img.shields.io/badge/-Repo%20Owner-pink.svg?style=for-the-badge&logo=Aryan"></a>
 </p>
