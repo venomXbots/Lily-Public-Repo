@@ -57,11 +57,13 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/The_Ghost_Iisland"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/The_Ghost_Iisland"><img src="https://img.shields.io/badge/-Support%20Group-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
-<a href="https://t.me/Lily_x_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Lily_x_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ʜᴇʟᴩᴇʀ](https://telegram.me/badboy9616) ғᴏʀ [ᴍᴜsɪᴄ ʙᴏᴛ](https://telegram.me/Saykkunobot)_ </b>
+<p align="center">
+<a href="https://telegram.me/badboy9616"><img src="https://img.shields.io/badge/-Special%20Thanks-red.svg?style=for-the-badge&logo=Yukki"></a>
+</p>
