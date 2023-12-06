@@ -66,8 +66,10 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <a href="https://telegram.me/Lily_x_bots"><img src="https://img.shields.io/badge/-Support%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
+<h2 align="center">
 ─「 ᴏᴡɴᴇʀ 」─
 
 <p align="center">
 <a href="https://telegram.me/badboy9616"><img src="https://img.shields.io/badge/-Repo%20Owner-pink.svg?style=for-the-badge&logo=Aryan"></a>
 </p>
+</h3>
