@@ -16,7 +16,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 300))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 30000))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", None))
@@ -83,16 +83,16 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/47605a2381cd25cc8b050.jpg"
 )
-PLAYLIST_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
-STATS_IMG_URL = "https://mallucampaign.in/images/img_1694847936.jpg"
-TELEGRAM_AUDIO_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"
-TELEGRAM_VIDEO_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"
-STREAM_IMG_URL = "https://graph.org/file/ff2af8d4d10afa1baf49e.jpg"
-SOUNCLOUD_IMG_URL = "https://graph.org/file/c95a687e777b55be1c792.jpg"
-YOUTUBE_IMG_URL = "https://graph.org/file/e8730fdece86a1166f608.jpg"
-SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/0bb6f36796d496b4254ff.jpg"
-SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/0bb6f36796d496b4254ff.jpg"
-SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/0bb6f36796d496b4254ff.jpg"
+PLAYLIST_IMG_URL = "https://graph.org/file/c9d675e3693c169215ca5.jpg"
+STATS_IMG_URL = "https://graph.org/file/77785bfc6eceb77dd5edd.jpg"
+TELEGRAM_AUDIO_URL = "https://graph.org/file/b79ee36deb5e8302825da.jpg"
+TELEGRAM_VIDEO_URL = "https://graph.org/file/ecfc9e0d3360e58d36700.jpg"
+STREAM_IMG_URL = "https://graph.org/file/a054899caa2700893a3d6.jpg"
+SOUNCLOUD_IMG_URL = "https://graph.org/file/fd2cd43c1b3e188f2bbec.jpg"
+YOUTUBE_IMG_URL = "https://graph.org/file/77785bfc6eceb77dd5edd.jpg"
+SPOTIFY_ARTIST_IMG_URL = "https://graph.org/file/77785bfc6eceb77dd5edd.jpg"
+SPOTIFY_ALBUM_IMG_URL = "https://graph.org/file/b5f7e7a637ac7e32daf71.jpg"
+SPOTIFY_PLAYLIST_IMG_URL = "https://graph.org/file/65afd7d5aabebf2e1a067.jpg"
 
 
 
